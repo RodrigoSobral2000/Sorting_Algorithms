@@ -80,10 +80,6 @@ def countingSort(database, digitsArray):
             database.pop(greater)
     return sortedArray
      
-     #====================================
-
-#=============================
-
 def getDistinctUsers(database):
     tot_users=[]
     for search in database:
